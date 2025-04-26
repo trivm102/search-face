@@ -1,5 +1,5 @@
 # main.py
-from fastapi import FastAPI, File, UploadFile, Form, Body
+from fastapi import FastAPI, File, UploadFile, Body
 from search_query import search_person
 from image_handler import insert_images_handler, delete_images_handler
 import io
