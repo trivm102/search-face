@@ -1,4 +1,4 @@
-#!/Users/vo.minh-tri1/Desktop/Ex_Python/search_face/.venv/bin/python
+#!/Users/vo.minh-tri1/Desktop/Ex_Python/search_face/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

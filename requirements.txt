@@ -1,6 +1,7 @@
 fastapi
 uvicorn[standard]
+dlib
 face_recognition
 faiss-cpu
 numpy
-opencv-python
+python-multipart
