@@ -1,0 +1,5 @@
+DATA_FOLDER = "data"
+EMBEDDING_FILE = f"./{DATA_FOLDER}/embeddings.npy"
+FILENAME_FILE = f"./{DATA_FOLDER}/filenames.txt"
+FAISS_INDEX_FILE = f"./{DATA_FOLDER}/index.faiss"
+META_DATA = f"./{DATA_FOLDER}/metadata.db"
